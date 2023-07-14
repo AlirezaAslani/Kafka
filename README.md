@@ -55,8 +55,9 @@ To get started with this project, you can clone the repository by running the fo
 
 
 ## Configuration
-To use this code, please pay attention to the variables such as bootstrap_servers and others. I used the Properties object in my code because someone might need to run each code separately for testing purposes. I believe it enhances readability, especially for those who are new to Kafka. 
-**Note**<br>
+To use this code, please pay attention to the variables such as bootstrap_servers and others. I used the Properties object in my code because someone might need to run each code separately for testing purposes. I believe it enhances readability, especially for those who are new to Kafka. <br>
+<br>
+**Note:**<br>
 However, in a real project, it is advisable to create a separate properties file.
 
 ## Version Compatibility
